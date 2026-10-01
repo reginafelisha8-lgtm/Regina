@@ -1,0 +1,4 @@
+nama  : regina felisha sidabutar
+nim   : 25110080
+prodi : teknik komputer
+grup  : b
